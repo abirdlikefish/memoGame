@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Item
+  - Box
+  - Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Scene_Back
+    uniqueID: 1407583635
+    locked: 0
+  - name: Box_NoPhy
+    uniqueID: 152166113
+    locked: 0
+  - name: Box_Phy
+    uniqueID: 2112104175
+    locked: 0
+  - name: Item
+    uniqueID: 3883409753
+    locked: 0
+  - name: Enemy
+    uniqueID: 1556580243
+    locked: 0
+  - name: Player
+    uniqueID: 4176540111
+    locked: 0
+  - name: Bullet_Enemy
+    uniqueID: 3507138777
+    locked: 0
+  - name: Bullet_Player
+    uniqueID: 2305404907
+    locked: 0
+  - name: Scene_Front
+    uniqueID: 2584032301
+    locked: 0
